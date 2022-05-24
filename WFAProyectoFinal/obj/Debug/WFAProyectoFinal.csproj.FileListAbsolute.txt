@@ -1,0 +1,565 @@
+C:\Users\soporte\Desktop\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\WFAProyectoFinal.exe.config
+C:\Users\soporte\Desktop\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\WFAProyectoFinal.exe
+C:\Users\soporte\Desktop\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\WFAProyectoFinal.pdb
+C:\Users\soporte\Desktop\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\soporte\Desktop\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\MetroFramework.Design.dll
+C:\Users\soporte\Desktop\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\MetroFramework.dll
+C:\Users\soporte\Desktop\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\soporte\Desktop\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\soporte\Desktop\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\Npgsql.dll
+C:\Users\soporte\Desktop\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Buffers.dll
+C:\Users\soporte\Desktop\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Memory.dll
+C:\Users\soporte\Desktop\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\soporte\Desktop\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\soporte\Desktop\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\soporte\Desktop\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Text.Json.dll
+C:\Users\soporte\Desktop\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Threading.Channels.dll
+C:\Users\soporte\Desktop\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\soporte\Desktop\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.ValueTuple.dll
+C:\Users\soporte\Desktop\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\soporte\Desktop\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\Npgsql.xml
+C:\Users\soporte\Desktop\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Buffers.xml
+C:\Users\soporte\Desktop\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Memory.xml
+C:\Users\soporte\Desktop\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\soporte\Desktop\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\soporte\Desktop\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\soporte\Desktop\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Text.Json.xml
+C:\Users\soporte\Desktop\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Threading.Channels.xml
+C:\Users\soporte\Desktop\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\soporte\Desktop\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.ValueTuple.xml
+C:\Users\soporte\Desktop\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.csproj.AssemblyReference.cache
+C:\Users\soporte\Desktop\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.frmLogin.resources
+C:\Users\soporte\Desktop\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.frmRegistro.resources
+C:\Users\soporte\Desktop\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.frmAlquiler.resources
+C:\Users\soporte\Desktop\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.frmVenta.resources
+C:\Users\soporte\Desktop\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.frmPrincipal.resources
+C:\Users\soporte\Desktop\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.progessbar.resources
+C:\Users\soporte\Desktop\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.Properties.Resources.resources
+C:\Users\soporte\Desktop\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.csproj.GenerateResource.cache
+C:\Users\soporte\Desktop\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\soporte\Desktop\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.csproj.CopyComplete
+C:\Users\soporte\Desktop\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.exe
+C:\Users\soporte\Desktop\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.pdb
+C:\Users\soporte\Desktop\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.frmConsulta.resources
+C:\Users\Jose Medina\Downloads\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\WFAProyectoFinal.exe.config
+C:\Users\Jose Medina\Downloads\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\WFAProyectoFinal.exe
+C:\Users\Jose Medina\Downloads\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\WFAProyectoFinal.pdb
+C:\Users\Jose Medina\Downloads\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Jose Medina\Downloads\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\MetroFramework.Design.dll
+C:\Users\Jose Medina\Downloads\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\MetroFramework.dll
+C:\Users\Jose Medina\Downloads\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Jose Medina\Downloads\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Jose Medina\Downloads\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\Npgsql.dll
+C:\Users\Jose Medina\Downloads\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Buffers.dll
+C:\Users\Jose Medina\Downloads\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Memory.dll
+C:\Users\Jose Medina\Downloads\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Jose Medina\Downloads\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jose Medina\Downloads\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Jose Medina\Downloads\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Text.Json.dll
+C:\Users\Jose Medina\Downloads\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Threading.Channels.dll
+C:\Users\Jose Medina\Downloads\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Jose Medina\Downloads\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.ValueTuple.dll
+C:\Users\Jose Medina\Downloads\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Jose Medina\Downloads\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\Npgsql.xml
+C:\Users\Jose Medina\Downloads\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Buffers.xml
+C:\Users\Jose Medina\Downloads\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Memory.xml
+C:\Users\Jose Medina\Downloads\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Jose Medina\Downloads\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Jose Medina\Downloads\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Jose Medina\Downloads\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Text.Json.xml
+C:\Users\Jose Medina\Downloads\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Threading.Channels.xml
+C:\Users\Jose Medina\Downloads\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Jose Medina\Downloads\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.ValueTuple.xml
+C:\Users\Jose Medina\Downloads\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.csproj.AssemblyReference.cache
+C:\Users\Jose Medina\Downloads\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.frmConsulta.resources
+C:\Users\Jose Medina\Downloads\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.frmLogin.resources
+C:\Users\Jose Medina\Downloads\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.frmRegistro.resources
+C:\Users\Jose Medina\Downloads\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.frmAlquiler.resources
+C:\Users\Jose Medina\Downloads\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.frmVenta.resources
+C:\Users\Jose Medina\Downloads\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.frmPrincipal.resources
+C:\Users\Jose Medina\Downloads\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.progessbar.resources
+C:\Users\Jose Medina\Downloads\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.Properties.Resources.resources
+C:\Users\Jose Medina\Downloads\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.csproj.GenerateResource.cache
+C:\Users\Jose Medina\Downloads\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\Jose Medina\Downloads\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.exe
+C:\Users\Jose Medina\Downloads\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.pdb
+C:\Users\soporte\Desktop\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.frmFactura.resources
+L:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.csproj.AssemblyReference.cache
+L:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.frmConsulta.resources
+L:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.frmFactura.resources
+L:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.frmLogin.resources
+L:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.frmRegistro.resources
+L:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.frmAlquiler.resources
+L:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.frmVenta.resources
+L:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.frmPrincipal.resources
+L:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.progessbar.resources
+L:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.Properties.Resources.resources
+L:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.csproj.GenerateResource.cache
+L:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.csproj.CoreCompileInputs.cache
+L:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.exe
+L:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.pdb
+L:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\WFAProyectoFinal.exe.config
+L:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\WFAProyectoFinal.exe
+L:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\WFAProyectoFinal.pdb
+L:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\FontAwesome.Sharp.dll
+L:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\MetroFramework.Design.dll
+L:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\MetroFramework.dll
+L:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\MetroFramework.Fonts.dll
+L:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+L:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\Npgsql.dll
+L:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Buffers.dll
+L:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Memory.dll
+L:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Numerics.Vectors.dll
+L:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+L:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Text.Encodings.Web.dll
+L:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Text.Json.dll
+L:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Threading.Channels.dll
+L:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Threading.Tasks.Extensions.dll
+L:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.ValueTuple.dll
+L:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+L:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\Npgsql.xml
+L:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Buffers.xml
+L:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Memory.xml
+L:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Numerics.Vectors.xml
+L:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+L:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Text.Encodings.Web.xml
+L:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Text.Json.xml
+L:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Threading.Channels.xml
+L:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Threading.Tasks.Extensions.xml
+L:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.ValueTuple.xml
+C:\Users\Jose Medina\Desktop\FCECEP\POO\Visual Estudio\Trabajo Final\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\WFAProyectoFinal.exe.config
+C:\Users\Jose Medina\Desktop\FCECEP\POO\Visual Estudio\Trabajo Final\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\WFAProyectoFinal.exe
+C:\Users\Jose Medina\Desktop\FCECEP\POO\Visual Estudio\Trabajo Final\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\WFAProyectoFinal.pdb
+C:\Users\Jose Medina\Desktop\FCECEP\POO\Visual Estudio\Trabajo Final\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Jose Medina\Desktop\FCECEP\POO\Visual Estudio\Trabajo Final\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\MetroFramework.Design.dll
+C:\Users\Jose Medina\Desktop\FCECEP\POO\Visual Estudio\Trabajo Final\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\MetroFramework.dll
+C:\Users\Jose Medina\Desktop\FCECEP\POO\Visual Estudio\Trabajo Final\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Jose Medina\Desktop\FCECEP\POO\Visual Estudio\Trabajo Final\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Jose Medina\Desktop\FCECEP\POO\Visual Estudio\Trabajo Final\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\Npgsql.dll
+C:\Users\Jose Medina\Desktop\FCECEP\POO\Visual Estudio\Trabajo Final\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Buffers.dll
+C:\Users\Jose Medina\Desktop\FCECEP\POO\Visual Estudio\Trabajo Final\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Memory.dll
+C:\Users\Jose Medina\Desktop\FCECEP\POO\Visual Estudio\Trabajo Final\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Jose Medina\Desktop\FCECEP\POO\Visual Estudio\Trabajo Final\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jose Medina\Desktop\FCECEP\POO\Visual Estudio\Trabajo Final\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Jose Medina\Desktop\FCECEP\POO\Visual Estudio\Trabajo Final\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Text.Json.dll
+C:\Users\Jose Medina\Desktop\FCECEP\POO\Visual Estudio\Trabajo Final\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Threading.Channels.dll
+C:\Users\Jose Medina\Desktop\FCECEP\POO\Visual Estudio\Trabajo Final\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Jose Medina\Desktop\FCECEP\POO\Visual Estudio\Trabajo Final\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.ValueTuple.dll
+C:\Users\Jose Medina\Desktop\FCECEP\POO\Visual Estudio\Trabajo Final\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Jose Medina\Desktop\FCECEP\POO\Visual Estudio\Trabajo Final\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\Npgsql.xml
+C:\Users\Jose Medina\Desktop\FCECEP\POO\Visual Estudio\Trabajo Final\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Buffers.xml
+C:\Users\Jose Medina\Desktop\FCECEP\POO\Visual Estudio\Trabajo Final\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Memory.xml
+C:\Users\Jose Medina\Desktop\FCECEP\POO\Visual Estudio\Trabajo Final\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Jose Medina\Desktop\FCECEP\POO\Visual Estudio\Trabajo Final\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Jose Medina\Desktop\FCECEP\POO\Visual Estudio\Trabajo Final\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Jose Medina\Desktop\FCECEP\POO\Visual Estudio\Trabajo Final\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Text.Json.xml
+C:\Users\Jose Medina\Desktop\FCECEP\POO\Visual Estudio\Trabajo Final\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Threading.Channels.xml
+C:\Users\Jose Medina\Desktop\FCECEP\POO\Visual Estudio\Trabajo Final\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Jose Medina\Desktop\FCECEP\POO\Visual Estudio\Trabajo Final\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.ValueTuple.xml
+C:\Users\Jose Medina\Desktop\FCECEP\POO\Visual Estudio\Trabajo Final\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.csproj.AssemblyReference.cache
+C:\Users\Jose Medina\Desktop\FCECEP\POO\Visual Estudio\Trabajo Final\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.frmConsulta.resources
+C:\Users\Jose Medina\Desktop\FCECEP\POO\Visual Estudio\Trabajo Final\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.frmFactura.resources
+C:\Users\Jose Medina\Desktop\FCECEP\POO\Visual Estudio\Trabajo Final\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.frmLogin.resources
+C:\Users\Jose Medina\Desktop\FCECEP\POO\Visual Estudio\Trabajo Final\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.frmRegistro.resources
+C:\Users\Jose Medina\Desktop\FCECEP\POO\Visual Estudio\Trabajo Final\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.frmAlquiler.resources
+C:\Users\Jose Medina\Desktop\FCECEP\POO\Visual Estudio\Trabajo Final\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.frmVenta.resources
+C:\Users\Jose Medina\Desktop\FCECEP\POO\Visual Estudio\Trabajo Final\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.frmPrincipal.resources
+C:\Users\Jose Medina\Desktop\FCECEP\POO\Visual Estudio\Trabajo Final\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.progessbar.resources
+C:\Users\Jose Medina\Desktop\FCECEP\POO\Visual Estudio\Trabajo Final\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.Properties.Resources.resources
+C:\Users\Jose Medina\Desktop\FCECEP\POO\Visual Estudio\Trabajo Final\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.csproj.GenerateResource.cache
+C:\Users\Jose Medina\Desktop\FCECEP\POO\Visual Estudio\Trabajo Final\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\Jose Medina\Desktop\FCECEP\POO\Visual Estudio\Trabajo Final\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.exe
+C:\Users\Jose Medina\Desktop\FCECEP\POO\Visual Estudio\Trabajo Final\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.pdb
+C:\Users\soporte\Desktop\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.frmNavegar.resources
+C:\Users\Jose Medina\Desktop\FCECEP\POO\Visual Estudio\Trabajo Final\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.frmNavegar.resources
+C:\Users\soporte\Desktop\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\soporte\Desktop\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\soporte\Desktop\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\soporte\Desktop\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\soporte\Desktop\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\soporte\Desktop\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\soporte\Desktop\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\soporte\Desktop\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\soporte\Desktop\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\soporte\Desktop\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\soporte\Desktop\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\soporte\Desktop\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\soporte\Desktop\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\soporte\Desktop\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\soporte\Desktop\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\soporte\Desktop\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\stdole.dll
+C:\Users\soporte\Desktop\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\soporte\Desktop\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\soporte\Desktop\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\soporte\Desktop\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.Crystal.resources
+C:\Users\giral\Desktop\4 SEMESTRE CECEP\LENGUAJE INFORMATICO\2 CORTE\PROYECTO FINAL JOSE MEDINA\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.Crystal.resources
+C:\Users\giral\Desktop\4 SEMESTRE CECEP\LENGUAJE INFORMATICO\2 CORTE\PROYECTO FINAL JOSE MEDINA\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.frmConsulta.resources
+C:\Users\giral\Desktop\4 SEMESTRE CECEP\LENGUAJE INFORMATICO\2 CORTE\PROYECTO FINAL JOSE MEDINA\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.frmFactura.resources
+C:\Users\giral\Desktop\4 SEMESTRE CECEP\LENGUAJE INFORMATICO\2 CORTE\PROYECTO FINAL JOSE MEDINA\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.frmLogin.resources
+C:\Users\giral\Desktop\4 SEMESTRE CECEP\LENGUAJE INFORMATICO\2 CORTE\PROYECTO FINAL JOSE MEDINA\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.frmNavegar.resources
+C:\Users\giral\Desktop\4 SEMESTRE CECEP\LENGUAJE INFORMATICO\2 CORTE\PROYECTO FINAL JOSE MEDINA\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.frmRegistro.resources
+C:\Users\giral\Desktop\4 SEMESTRE CECEP\LENGUAJE INFORMATICO\2 CORTE\PROYECTO FINAL JOSE MEDINA\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.frmAlquiler.resources
+C:\Users\giral\Desktop\4 SEMESTRE CECEP\LENGUAJE INFORMATICO\2 CORTE\PROYECTO FINAL JOSE MEDINA\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.frmVenta.resources
+C:\Users\giral\Desktop\4 SEMESTRE CECEP\LENGUAJE INFORMATICO\2 CORTE\PROYECTO FINAL JOSE MEDINA\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.frmPrincipal.resources
+C:\Users\giral\Desktop\4 SEMESTRE CECEP\LENGUAJE INFORMATICO\2 CORTE\PROYECTO FINAL JOSE MEDINA\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.progessbar.resources
+C:\Users\giral\Desktop\4 SEMESTRE CECEP\LENGUAJE INFORMATICO\2 CORTE\PROYECTO FINAL JOSE MEDINA\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.Properties.Resources.resources
+C:\Users\giral\Desktop\4 SEMESTRE CECEP\LENGUAJE INFORMATICO\2 CORTE\PROYECTO FINAL JOSE MEDINA\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.csproj.GenerateResource.cache
+C:\Users\giral\Desktop\4 SEMESTRE CECEP\LENGUAJE INFORMATICO\2 CORTE\PROYECTO FINAL JOSE MEDINA\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\giral\Desktop\4 SEMESTRE CECEP\LENGUAJE INFORMATICO\2 CORTE\PROYECTO FINAL JOSE MEDINA\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.csproj.AssemblyReference.cache
+C:\Users\Jose Medina\Downloads\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.csproj.AssemblyReference.cache
+C:\Users\Jose Medina\Downloads\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.Crystal.resources
+C:\Users\Jose Medina\Downloads\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.frmConsulta.resources
+C:\Users\Jose Medina\Downloads\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.frmFactura.resources
+C:\Users\Jose Medina\Downloads\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.frmLogin.resources
+C:\Users\Jose Medina\Downloads\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.frmNavegar.resources
+C:\Users\Jose Medina\Downloads\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.frmRegistro.resources
+C:\Users\Jose Medina\Downloads\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.frmAlquiler.resources
+C:\Users\Jose Medina\Downloads\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.frmVenta.resources
+C:\Users\Jose Medina\Downloads\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.frmPrincipal.resources
+C:\Users\Jose Medina\Downloads\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.progessbar.resources
+C:\Users\Jose Medina\Downloads\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.Properties.Resources.resources
+C:\Users\Jose Medina\Downloads\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.csproj.GenerateResource.cache
+C:\Users\Jose Medina\Downloads\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\Jose Medina\Downloads\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.exe
+C:\Users\Jose Medina\Downloads\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.pdb
+C:\Users\Jose Medina\Downloads\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\WFAProyectoFinal.exe.config
+C:\Users\Jose Medina\Downloads\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\WFAProyectoFinal.exe
+C:\Users\Jose Medina\Downloads\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\WFAProyectoFinal.pdb
+C:\Users\Jose Medina\Downloads\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Jose Medina\Downloads\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Jose Medina\Downloads\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Jose Medina\Downloads\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Jose Medina\Downloads\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Jose Medina\Downloads\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Jose Medina\Downloads\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\MetroFramework.Design.dll
+C:\Users\Jose Medina\Downloads\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\MetroFramework.dll
+C:\Users\Jose Medina\Downloads\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Jose Medina\Downloads\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Jose Medina\Downloads\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\Npgsql.dll
+C:\Users\Jose Medina\Downloads\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Buffers.dll
+C:\Users\Jose Medina\Downloads\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Memory.dll
+C:\Users\Jose Medina\Downloads\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Jose Medina\Downloads\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jose Medina\Downloads\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Jose Medina\Downloads\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Text.Json.dll
+C:\Users\Jose Medina\Downloads\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Threading.Channels.dll
+C:\Users\Jose Medina\Downloads\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Jose Medina\Downloads\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.ValueTuple.dll
+C:\Users\Jose Medina\Downloads\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Jose Medina\Downloads\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Jose Medina\Downloads\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Jose Medina\Downloads\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Jose Medina\Downloads\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Jose Medina\Downloads\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Jose Medina\Downloads\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Jose Medina\Downloads\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Jose Medina\Downloads\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Jose Medina\Downloads\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Jose Medina\Downloads\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Jose Medina\Downloads\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Jose Medina\Downloads\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\stdole.dll
+C:\Users\Jose Medina\Downloads\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Jose Medina\Downloads\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Jose Medina\Downloads\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\Npgsql.xml
+C:\Users\Jose Medina\Downloads\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Buffers.xml
+C:\Users\Jose Medina\Downloads\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Memory.xml
+C:\Users\Jose Medina\Downloads\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Jose Medina\Downloads\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Jose Medina\Downloads\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Jose Medina\Downloads\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Text.Json.xml
+C:\Users\Jose Medina\Downloads\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Threading.Channels.xml
+C:\Users\Jose Medina\Downloads\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Jose Medina\Downloads\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.ValueTuple.xml
+E:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\WFAProyectoFinal.exe.config
+E:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\WFAProyectoFinal.exe
+E:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\WFAProyectoFinal.pdb
+E:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\AxShockwaveFlashObjects.dll
+E:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.Shared.dll
+E:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\FontAwesome.Sharp.dll
+E:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\MetroFramework.Design.dll
+E:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\MetroFramework.dll
+E:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\MetroFramework.Fonts.dll
+E:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\Npgsql.dll
+E:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Buffers.dll
+E:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Memory.dll
+E:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Numerics.Vectors.dll
+E:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Text.Encodings.Web.dll
+E:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Text.Json.dll
+E:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Threading.Channels.dll
+E:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.ValueTuple.dll
+E:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\ShockwaveFlashObjects.dll
+E:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\stdole.dll
+E:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\Npgsql.xml
+E:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Buffers.xml
+E:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Memory.xml
+E:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Numerics.Vectors.xml
+E:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Text.Encodings.Web.xml
+E:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Text.Json.xml
+E:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Threading.Channels.xml
+E:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.ValueTuple.xml
+E:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.csproj.AssemblyReference.cache
+E:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.Crystal.resources
+E:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.frmConsulta.resources
+E:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.frmFactura.resources
+E:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.frmLogin.resources
+E:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.frmNavegar.resources
+E:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.frmRegistro.resources
+E:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.frmAlquiler.resources
+E:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.frmVenta.resources
+E:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.frmPrincipal.resources
+E:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.progessbar.resources
+E:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.Properties.Resources.resources
+E:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.csproj.GenerateResource.cache
+E:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.csproj.CoreCompileInputs.cache
+E:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.csproj.CopyComplete
+E:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.exe
+E:\LENGUAJE INFORMATICO\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.pdb
+C:\Users\estudiantes\Downloads\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\WFAProyectoFinal.exe.config
+C:\Users\estudiantes\Downloads\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\WFAProyectoFinal.exe
+C:\Users\estudiantes\Downloads\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\WFAProyectoFinal.pdb
+C:\Users\estudiantes\Downloads\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\estudiantes\Downloads\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\estudiantes\Downloads\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\estudiantes\Downloads\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\estudiantes\Downloads\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\estudiantes\Downloads\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\estudiantes\Downloads\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\MetroFramework.Design.dll
+C:\Users\estudiantes\Downloads\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\MetroFramework.dll
+C:\Users\estudiantes\Downloads\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\estudiantes\Downloads\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\estudiantes\Downloads\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\Npgsql.dll
+C:\Users\estudiantes\Downloads\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Buffers.dll
+C:\Users\estudiantes\Downloads\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Memory.dll
+C:\Users\estudiantes\Downloads\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\estudiantes\Downloads\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\estudiantes\Downloads\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\estudiantes\Downloads\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Text.Json.dll
+C:\Users\estudiantes\Downloads\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Threading.Channels.dll
+C:\Users\estudiantes\Downloads\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\estudiantes\Downloads\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.ValueTuple.dll
+C:\Users\estudiantes\Downloads\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\estudiantes\Downloads\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\estudiantes\Downloads\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\estudiantes\Downloads\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\estudiantes\Downloads\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\estudiantes\Downloads\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\estudiantes\Downloads\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\estudiantes\Downloads\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\estudiantes\Downloads\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\estudiantes\Downloads\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\estudiantes\Downloads\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\estudiantes\Downloads\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\estudiantes\Downloads\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\stdole.dll
+C:\Users\estudiantes\Downloads\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\estudiantes\Downloads\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\estudiantes\Downloads\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\Npgsql.xml
+C:\Users\estudiantes\Downloads\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Buffers.xml
+C:\Users\estudiantes\Downloads\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Memory.xml
+C:\Users\estudiantes\Downloads\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\estudiantes\Downloads\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\estudiantes\Downloads\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\estudiantes\Downloads\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Text.Json.xml
+C:\Users\estudiantes\Downloads\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Threading.Channels.xml
+C:\Users\estudiantes\Downloads\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\estudiantes\Downloads\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.ValueTuple.xml
+C:\Users\estudiantes\Downloads\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.csproj.AssemblyReference.cache
+C:\Users\estudiantes\Downloads\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.Crystal.resources
+C:\Users\estudiantes\Downloads\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.frmConsulta.resources
+C:\Users\estudiantes\Downloads\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.frmFactura.resources
+C:\Users\estudiantes\Downloads\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.frmLogin.resources
+C:\Users\estudiantes\Downloads\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.frmNavegar.resources
+C:\Users\estudiantes\Downloads\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.frmRegistro.resources
+C:\Users\estudiantes\Downloads\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.frmAlquiler.resources
+C:\Users\estudiantes\Downloads\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.frmVenta.resources
+C:\Users\estudiantes\Downloads\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.frmPrincipal.resources
+C:\Users\estudiantes\Downloads\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.progessbar.resources
+C:\Users\estudiantes\Downloads\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.Properties.Resources.resources
+C:\Users\estudiantes\Downloads\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.csproj.GenerateResource.cache
+C:\Users\estudiantes\Downloads\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\estudiantes\Downloads\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.csproj.CopyComplete
+C:\Users\estudiantes\Downloads\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.exe
+C:\Users\estudiantes\Downloads\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.pdb
+C:\Users\estudiantes\Downloads\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.frmDetalleFactura.resources
+C:\Users\Jose Medina\Desktop\FCECEP\POO\Visual Estudio\Trabajo Final\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.Crystal.resources
+C:\Users\Jose Medina\Desktop\FCECEP\POO\Visual Estudio\Trabajo Final\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.frmDetalleFactura.resources
+C:\Users\Jose Medina\Desktop\FCECEP\POO\Visual Estudio\Trabajo Final\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Jose Medina\Desktop\FCECEP\POO\Visual Estudio\Trabajo Final\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Jose Medina\Desktop\FCECEP\POO\Visual Estudio\Trabajo Final\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Jose Medina\Desktop\FCECEP\POO\Visual Estudio\Trabajo Final\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Jose Medina\Desktop\FCECEP\POO\Visual Estudio\Trabajo Final\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Jose Medina\Desktop\FCECEP\POO\Visual Estudio\Trabajo Final\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Jose Medina\Desktop\FCECEP\POO\Visual Estudio\Trabajo Final\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Jose Medina\Desktop\FCECEP\POO\Visual Estudio\Trabajo Final\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Jose Medina\Desktop\FCECEP\POO\Visual Estudio\Trabajo Final\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Jose Medina\Desktop\FCECEP\POO\Visual Estudio\Trabajo Final\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Jose Medina\Desktop\FCECEP\POO\Visual Estudio\Trabajo Final\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Jose Medina\Desktop\FCECEP\POO\Visual Estudio\Trabajo Final\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Jose Medina\Desktop\FCECEP\POO\Visual Estudio\Trabajo Final\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Jose Medina\Desktop\FCECEP\POO\Visual Estudio\Trabajo Final\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Jose Medina\Desktop\FCECEP\POO\Visual Estudio\Trabajo Final\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Jose Medina\Desktop\FCECEP\POO\Visual Estudio\Trabajo Final\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Jose Medina\Desktop\FCECEP\POO\Visual Estudio\Trabajo Final\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Jose Medina\Desktop\FCECEP\POO\Visual Estudio\Trabajo Final\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\stdole.dll
+C:\Users\Jose Medina\Desktop\FCECEP\POO\Visual Estudio\Trabajo Final\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\estudiantes\Desktop\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\WFAProyectoFinal.exe.config
+C:\Users\estudiantes\Desktop\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\WFAProyectoFinal.exe
+C:\Users\estudiantes\Desktop\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\WFAProyectoFinal.pdb
+C:\Users\estudiantes\Desktop\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\estudiantes\Desktop\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\estudiantes\Desktop\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\estudiantes\Desktop\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\estudiantes\Desktop\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\estudiantes\Desktop\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\estudiantes\Desktop\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\MetroFramework.Design.dll
+C:\Users\estudiantes\Desktop\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\MetroFramework.dll
+C:\Users\estudiantes\Desktop\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\estudiantes\Desktop\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\estudiantes\Desktop\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\Npgsql.dll
+C:\Users\estudiantes\Desktop\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Buffers.dll
+C:\Users\estudiantes\Desktop\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Memory.dll
+C:\Users\estudiantes\Desktop\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\estudiantes\Desktop\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\estudiantes\Desktop\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\estudiantes\Desktop\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Text.Json.dll
+C:\Users\estudiantes\Desktop\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Threading.Channels.dll
+C:\Users\estudiantes\Desktop\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\estudiantes\Desktop\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.ValueTuple.dll
+C:\Users\estudiantes\Desktop\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\estudiantes\Desktop\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\estudiantes\Desktop\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\estudiantes\Desktop\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\estudiantes\Desktop\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\estudiantes\Desktop\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\estudiantes\Desktop\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\estudiantes\Desktop\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\estudiantes\Desktop\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\estudiantes\Desktop\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\estudiantes\Desktop\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\estudiantes\Desktop\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\estudiantes\Desktop\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\stdole.dll
+C:\Users\estudiantes\Desktop\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\estudiantes\Desktop\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\estudiantes\Desktop\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\Npgsql.xml
+C:\Users\estudiantes\Desktop\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Buffers.xml
+C:\Users\estudiantes\Desktop\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Memory.xml
+C:\Users\estudiantes\Desktop\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\estudiantes\Desktop\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\estudiantes\Desktop\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\estudiantes\Desktop\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Text.Json.xml
+C:\Users\estudiantes\Desktop\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Threading.Channels.xml
+C:\Users\estudiantes\Desktop\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\estudiantes\Desktop\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.ValueTuple.xml
+C:\Users\estudiantes\Desktop\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.csproj.AssemblyReference.cache
+C:\Users\estudiantes\Desktop\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.Crystal.resources
+C:\Users\estudiantes\Desktop\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.frmIncidencias.resources
+C:\Users\estudiantes\Desktop\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.frmDetalleFactura.resources
+C:\Users\estudiantes\Desktop\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.frmConsulta.resources
+C:\Users\estudiantes\Desktop\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.frmFactura.resources
+C:\Users\estudiantes\Desktop\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.frmLogin.resources
+C:\Users\estudiantes\Desktop\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.frmNavegar.resources
+C:\Users\estudiantes\Desktop\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.frmRegistro.resources
+C:\Users\estudiantes\Desktop\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.frmAlquiler.resources
+C:\Users\estudiantes\Desktop\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.frmVenta.resources
+C:\Users\estudiantes\Desktop\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.frmPrincipal.resources
+C:\Users\estudiantes\Desktop\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.progessbar.resources
+C:\Users\estudiantes\Desktop\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.Properties.Resources.resources
+C:\Users\estudiantes\Desktop\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.csproj.GenerateResource.cache
+C:\Users\estudiantes\Desktop\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\estudiantes\Desktop\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.csproj.CopyComplete
+C:\Users\estudiantes\Desktop\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.exe
+C:\Users\estudiantes\Desktop\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.pdb
+C:\Users\Jose Medina\Desktop\FCECEP\POO\Visual Estudio\Trabajo Final\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.frmEmpleados.resources
+C:\Users\Jose Medina\Desktop\FCECEP\POO\Visual Estudio\Trabajo Final\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.frmIncidencias.resources
+C:\Users\Jose Medina\Desktop\FCECEP\POO\Visual Estudio\Trabajo Final\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.frmVendedor.resources
+C:\Users\estudiantes\Desktop\FCECEP Trabajos_JDM\Lenguaje informatico\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\WFAProyectoFinal.exe.config
+C:\Users\estudiantes\Desktop\FCECEP Trabajos_JDM\Lenguaje informatico\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\WFAProyectoFinal.exe
+C:\Users\estudiantes\Desktop\FCECEP Trabajos_JDM\Lenguaje informatico\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\WFAProyectoFinal.pdb
+C:\Users\estudiantes\Desktop\FCECEP Trabajos_JDM\Lenguaje informatico\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\estudiantes\Desktop\FCECEP Trabajos_JDM\Lenguaje informatico\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\estudiantes\Desktop\FCECEP Trabajos_JDM\Lenguaje informatico\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\estudiantes\Desktop\FCECEP Trabajos_JDM\Lenguaje informatico\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\estudiantes\Desktop\FCECEP Trabajos_JDM\Lenguaje informatico\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\estudiantes\Desktop\FCECEP Trabajos_JDM\Lenguaje informatico\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\estudiantes\Desktop\FCECEP Trabajos_JDM\Lenguaje informatico\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\MetroFramework.Design.dll
+C:\Users\estudiantes\Desktop\FCECEP Trabajos_JDM\Lenguaje informatico\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\MetroFramework.dll
+C:\Users\estudiantes\Desktop\FCECEP Trabajos_JDM\Lenguaje informatico\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\estudiantes\Desktop\FCECEP Trabajos_JDM\Lenguaje informatico\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\estudiantes\Desktop\FCECEP Trabajos_JDM\Lenguaje informatico\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\Npgsql.dll
+C:\Users\estudiantes\Desktop\FCECEP Trabajos_JDM\Lenguaje informatico\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Buffers.dll
+C:\Users\estudiantes\Desktop\FCECEP Trabajos_JDM\Lenguaje informatico\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Memory.dll
+C:\Users\estudiantes\Desktop\FCECEP Trabajos_JDM\Lenguaje informatico\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\estudiantes\Desktop\FCECEP Trabajos_JDM\Lenguaje informatico\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\estudiantes\Desktop\FCECEP Trabajos_JDM\Lenguaje informatico\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\estudiantes\Desktop\FCECEP Trabajos_JDM\Lenguaje informatico\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Text.Json.dll
+C:\Users\estudiantes\Desktop\FCECEP Trabajos_JDM\Lenguaje informatico\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Threading.Channels.dll
+C:\Users\estudiantes\Desktop\FCECEP Trabajos_JDM\Lenguaje informatico\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\estudiantes\Desktop\FCECEP Trabajos_JDM\Lenguaje informatico\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.ValueTuple.dll
+C:\Users\estudiantes\Desktop\FCECEP Trabajos_JDM\Lenguaje informatico\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\estudiantes\Desktop\FCECEP Trabajos_JDM\Lenguaje informatico\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\estudiantes\Desktop\FCECEP Trabajos_JDM\Lenguaje informatico\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\estudiantes\Desktop\FCECEP Trabajos_JDM\Lenguaje informatico\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\estudiantes\Desktop\FCECEP Trabajos_JDM\Lenguaje informatico\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\estudiantes\Desktop\FCECEP Trabajos_JDM\Lenguaje informatico\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\estudiantes\Desktop\FCECEP Trabajos_JDM\Lenguaje informatico\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\estudiantes\Desktop\FCECEP Trabajos_JDM\Lenguaje informatico\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\estudiantes\Desktop\FCECEP Trabajos_JDM\Lenguaje informatico\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\estudiantes\Desktop\FCECEP Trabajos_JDM\Lenguaje informatico\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\estudiantes\Desktop\FCECEP Trabajos_JDM\Lenguaje informatico\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\estudiantes\Desktop\FCECEP Trabajos_JDM\Lenguaje informatico\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\estudiantes\Desktop\FCECEP Trabajos_JDM\Lenguaje informatico\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\stdole.dll
+C:\Users\estudiantes\Desktop\FCECEP Trabajos_JDM\Lenguaje informatico\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\estudiantes\Desktop\FCECEP Trabajos_JDM\Lenguaje informatico\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\estudiantes\Desktop\FCECEP Trabajos_JDM\Lenguaje informatico\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\Npgsql.xml
+C:\Users\estudiantes\Desktop\FCECEP Trabajos_JDM\Lenguaje informatico\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Buffers.xml
+C:\Users\estudiantes\Desktop\FCECEP Trabajos_JDM\Lenguaje informatico\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Memory.xml
+C:\Users\estudiantes\Desktop\FCECEP Trabajos_JDM\Lenguaje informatico\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\estudiantes\Desktop\FCECEP Trabajos_JDM\Lenguaje informatico\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\estudiantes\Desktop\FCECEP Trabajos_JDM\Lenguaje informatico\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\estudiantes\Desktop\FCECEP Trabajos_JDM\Lenguaje informatico\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Text.Json.xml
+C:\Users\estudiantes\Desktop\FCECEP Trabajos_JDM\Lenguaje informatico\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Threading.Channels.xml
+C:\Users\estudiantes\Desktop\FCECEP Trabajos_JDM\Lenguaje informatico\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\estudiantes\Desktop\FCECEP Trabajos_JDM\Lenguaje informatico\WFAProyectoFinal\WFAProyectoFinal\bin\Debug\System.ValueTuple.xml
+C:\Users\estudiantes\Desktop\FCECEP Trabajos_JDM\Lenguaje informatico\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.csproj.AssemblyReference.cache
+C:\Users\estudiantes\Desktop\FCECEP Trabajos_JDM\Lenguaje informatico\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.Crystal.resources
+C:\Users\estudiantes\Desktop\FCECEP Trabajos_JDM\Lenguaje informatico\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.frmEmpleados.resources
+C:\Users\estudiantes\Desktop\FCECEP Trabajos_JDM\Lenguaje informatico\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.frmIncidencias.resources
+C:\Users\estudiantes\Desktop\FCECEP Trabajos_JDM\Lenguaje informatico\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.frmDetalleFactura.resources
+C:\Users\estudiantes\Desktop\FCECEP Trabajos_JDM\Lenguaje informatico\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.frmConsulta.resources
+C:\Users\estudiantes\Desktop\FCECEP Trabajos_JDM\Lenguaje informatico\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.frmFactura.resources
+C:\Users\estudiantes\Desktop\FCECEP Trabajos_JDM\Lenguaje informatico\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.frmLogin.resources
+C:\Users\estudiantes\Desktop\FCECEP Trabajos_JDM\Lenguaje informatico\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.frmNavegar.resources
+C:\Users\estudiantes\Desktop\FCECEP Trabajos_JDM\Lenguaje informatico\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.frmRegistro.resources
+C:\Users\estudiantes\Desktop\FCECEP Trabajos_JDM\Lenguaje informatico\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.frmAlquiler.resources
+C:\Users\estudiantes\Desktop\FCECEP Trabajos_JDM\Lenguaje informatico\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.frmVendedor.resources
+C:\Users\estudiantes\Desktop\FCECEP Trabajos_JDM\Lenguaje informatico\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.frmVenta.resources
+C:\Users\estudiantes\Desktop\FCECEP Trabajos_JDM\Lenguaje informatico\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.frmPrincipal.resources
+C:\Users\estudiantes\Desktop\FCECEP Trabajos_JDM\Lenguaje informatico\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.progessbar.resources
+C:\Users\estudiantes\Desktop\FCECEP Trabajos_JDM\Lenguaje informatico\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.Properties.Resources.resources
+C:\Users\estudiantes\Desktop\FCECEP Trabajos_JDM\Lenguaje informatico\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.csproj.GenerateResource.cache
+C:\Users\estudiantes\Desktop\FCECEP Trabajos_JDM\Lenguaje informatico\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\estudiantes\Desktop\FCECEP Trabajos_JDM\Lenguaje informatico\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.csproj.CopyComplete
+C:\Users\estudiantes\Desktop\FCECEP Trabajos_JDM\Lenguaje informatico\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.exe
+C:\Users\estudiantes\Desktop\FCECEP Trabajos_JDM\Lenguaje informatico\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.pdb
+C:\Users\estudiantes\Desktop\FCECEP Trabajos_JDM\Lenguaje informatico\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.frmVehiculo.resources
+C:\Users\Jose Medina\Desktop\FCECEP\POO\Visual Estudio\Trabajo Final\WFAProyectoFinal\WFAProyectoFinal\obj\Debug\WFAProyectoFinal.frmVehiculo.resources
